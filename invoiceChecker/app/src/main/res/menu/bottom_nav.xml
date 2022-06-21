@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/string_record"
+        android:id="@+id/nav_record"
+        android:icon="@drawable/ic_list"
+        android:checked="false"/>
+    <item android:title="@string/string_scanner"
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/ic_camera"
+        android:checked="false"/>
+    <item android:title="@string/string_analysis"
+        android:id="@+id/nav_analysis"
+        android:icon="@drawable/ic_analytics"
+        android:checked="false"
+        android:checkable="false"/>
+</menu>

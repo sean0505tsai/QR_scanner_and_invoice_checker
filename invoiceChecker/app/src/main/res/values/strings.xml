@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">invoiceChecker</string>
+    <string name="string_record">紀錄</string>
+    <string name="string_scanner">掃描</string>
+    <string name="string_analysis">分析</string>
+    <string-array name="mar_apr_number">
+        <item>32220402</item>
+        <item>99194290</item>
+        <item>16525386</item>
+        <item>28467179</item>
+        <item>27854976</item>
+    </string-array>
+</resources>
