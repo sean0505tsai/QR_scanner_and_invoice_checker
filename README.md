@@ -1,3 +1,2 @@
-# invoice_checker
-發票兌獎&amp;記帳app<br>
-Android app by Java
+# Simple QR code Scanner with Invoice checker
+Android App Development Course Final Project
